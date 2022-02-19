@@ -1,0 +1,18 @@
+{
+	"inputFile": [
+		"data1.json",
+		"data2.json"
+	],
+	"outputFile": "outputdata2.json",
+	"joinCondition": [
+		{
+			"mis_date": "mis_date"
+		},
+		{
+			"product": "product"
+		},
+		{
+			"category": "category"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+[{
+  "mis_date": "31-Jan-2022",
+  "category": "PG1",
+  "sales2": 1000
+},{
+   "mis_date": "31-Jan-2022",
+   "category": "PG2",
+   "sales2": 2000
+},{
+   "mis_date": "31-Jan-2022",
+   "category": "PG3",
+   "sales2": 2500
+},{
+  "mis_date": "28-Feb-2022",
+  "category": "PG1",
+  "sales2": 1100
+},{
+   "mis_date": "28-Feb-2022",
+   "category": "PG2",
+   "sales2": 2100
+},{
+   "mis_date": "28-Feb-2022",
+   "category": "PG3",
+   "sales2": 2750
+}]

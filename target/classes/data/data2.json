@@ -1,0 +1,51 @@
+[{
+  "mis_date": "31-Jan-2022",
+  "product": "P1",
+  "category": "PG1",
+  "cost": 100
+},{
+   "mis_date": "31-Jan-2022",
+   "product": "P2",
+   "category": "PG1",
+   "cost": 150
+},{
+   "mis_date": "31-Jan-2022",
+   "product": "P3",
+   "category": "PG2",
+   "cost": 250
+},{
+   "mis_date": "31-Jan-2022",
+   "product": "P4",
+   "category": "PG2",
+   "cost": 225
+},{
+   "mis_date": "31-Jan-2022",
+   "product": "P5",
+   "category": "PG3",
+   "cost": 250
+},{
+  "mis_date": "28-Feb-2022",
+  "product": "P1",
+  "category": "PG1",
+  "cost": 100
+},{
+   "mis_date": "28-Feb-2022",
+   "product": "P2",
+   "category": "PG1",
+   "cost": 150
+},{
+   "mis_date": "28-Feb-2022",
+   "product": "P3",
+   "category": "PG2",
+   "cost": 250
+},{
+   "mis_date": "28-Feb-2022",
+   "product": "P4",
+   "category": "PG2",
+   "cost": 225
+},{
+   "mis_date": "28-Feb-2022",
+   "product": "P5",
+   "category": "PG3",
+   "cost": 250
+}]
